@@ -1,0 +1,42 @@
+{
+"user": [
+    {
+      "id": "augustov@hotmail.com",
+      "nome": "Augusto",
+      "sobrenome":"Viana",
+      "email": "augustov@hotmail.com",
+      "senha": "aug123"
+    },
+    {
+      "id": "romarior@yahoo.com",
+      "nome": "Romário",
+      "sobrenome":"",
+      "email": "romarior@yahoo.com",
+      "senha": "rom123"
+    }
+  ],
+  "contas": [
+    {
+      "id": "romarior@yahoo.com",
+      "tipo": "Vendedor"
+    },
+    {
+      "id": "augustov@hotmail.com",
+      "descricao": "Comprador"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "romarior@yahoo.com",
+      "marca": "Nike"
+    },
+    {
+      "id": "romarior@yahoo.com",
+      "marca": "Adidas"
+    },
+    {
+      "id": "romarior@yahoo.com",
+      "marca": "Puma"
+    }
+  ]
+}

@@ -1,35 +1,35 @@
 {
     "vendedor": [
-    {
-      "nomeCompleto": "Romário Rodrigues",
-      "email": "romarior@yahoo.com",
-      "senha": "roro123",
-      "confirmarSenha": "roro123",
-      "nacionalidade": "Brasileiro",
-      "cpf": "012.345.789-10",
-      "nascimento": "23/01/1987",
-      "nomeLoja": "Gol de Placa Acessórios Futebolísticos",
-      "telefoneLoja": "011 98857-9592",
-      "whatsapp": "011 98857-9592",
-      "cepLoja": "01506-010",
-      "estadoLoja": "São Paulo",
-      "cidadeLoja": "São Paulo",
-      "bairroLoja": "Liberdade",
-      "ruaLoja": "Rua Américo de Campos",
-      "numero": "17"
-    }
-  ],
-  "produtos": [
-    {
+      {
+        "nomeCompleto": "Romário Rodrigues",
+        "email": "romarior@yahoo.com",
+        "senha": "roro123",
+        "confirmarSenha": "roro123",
+        "nacionalidade": "Brasileiro",
+        "cpf": "012.345.789-10",
+        "nascimento": "23/01/1987",
+        "nomeLoja": "Gol de Placa Acessórios Futebolísticos",
+        "telefoneLoja": "011 98857-9592",
+        "whatsapp": "011 98857-9592",
+        "cepLoja": "01506-010",
+        "estadoLoja": "São Paulo",
+        "cidadeLoja": "São Paulo",
+        "bairroLoja": "Liberdade",
+        "ruaLoja": "Rua Américo de Campos",
+        "numero": "17"
+      }
+    ],
+    "produtos": [
+      {
         "id": "1",
-        "nom":"Camisa",
-        "des": "Seleção Brasileira",
-        "lin": "https://images.lojanike.com.br/1024x1024/produto/camisa-maga-curta-cbf-m-nk-brt-ftbl-top-CD0874-749-1.jpg",
-        "mar": "Nike",
-        "tam":"M",
-        "tim": "Brasil ",
-        "pre":"500",
-        "qtd": "5"
-    }
-  ]
-}
+        "nome": "Camisa",
+        "descricao": "Seleção Brasileira",
+        "link": "www.google.com.br",
+        "marca": "Nike",
+        "tamanho": "G",
+        "time": "Brasil",
+        "preco": "300",
+        "qtd": "10"
+      }
+    ]
+  }

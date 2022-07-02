@@ -1,42 +1,106 @@
 {
-"user": [
+"comprador": [
     {
-      "id": "augustov@hotmail.com",
-      "nome": "Augusto",
-      "sobrenome":"Viana",
+      "nomeUsuario": "Gugu",
       "email": "augustov@hotmail.com",
-      "senha": "aug123"
+      "senha": "aug123",
+      "nomeCompleto": "Augusto Viana",
+      "confirmarSenha": "aug123",
+      "cidade": "Rio de Janeiro",
+      "cpf": "987.654.321-59",
+      "dataNascimento": "01/02/1995",
+      "telefone": "021 9962-5847"
     },
     {
-      "id": "romarior@yahoo.com",
-      "nome": "Romário",
-      "sobrenome":"",
-      "email": "romarior@yahoo.com",
-      "senha": "rom123"
+      "nomeUsuario": "",
+      "email": "",
+      "senha": "",
+      "nomeCompleto": "",
+      "confirmarSenha": "",
+      "cidade": "",
+      "cpf": "",
+      "dataNascimento": "",
+      "telefone": ""
     }
   ],
-  "contas": [
+  "vendedor": [
     {
-      "id": "romarior@yahoo.com",
-      "tipo": "Vendedor"
+      "nomeCompleto": "Romário Rodrigues",
+      "email": "romarior@yahoo.com",
+      "senha": "roro123",
+      "confirmarSenha": "roro123",
+      "nacionalidade": "Brasileiro",
+      "cpf": "012.345.789-10",
+      "nascimento": "23/01/1987",
+      "nomeLoja": "Gol de Placa Acessórios Futebolísticos",
+      "telefoneLoja": "011 98857-9592",
+      "whatsapp": "011 98857-9592",
+      "cepLoja": "01506-010",
+      "estadoLoja": "São Paulo",
+      "cidadeLoja": "São Paulo",
+      "bairroLoja": "Liberdade",
+      "ruaLoja": "Rua Américo de Campos",
+      "numero": "17"
     },
     {
-      "id": "augustov@hotmail.com",
-      "descricao": "Comprador"
+      "nome completo": "",
+      "email": "",
+      "senha": "",
+      "confirmarSenha": "",
+      "nacionalidade": "",
+      "cpf": "",
+      "nascimento": "",
+      "nomeLoja": "",
+      "telefoneLoja": "",
+      "whatsapp": "",
+      "cepLoja": "",
+      "estadoLoja": "",
+      "cidadeLoja": "",
+      "bairroLoja": "",
+      "ruaLoja": "",
+      "numero": ""
     }
   ],
   "produtos": [
     {
-      "id": "romarior@yahoo.com",
-      "marca": "Nike"
+      "nome":"",
+      "descricao": "",
+      "marca": "",
+      "tamanho":"",
+      "comprimentoManga":"",
+      "time": "",
+      "cor": "",
+      "preco":"",
+      "desconto": "",
+      "estoque": "",
+      "medidas": [
+        {
+          "largura": "",
+          "comprimento": "",
+          "altura": ""
+        }
+      ],
+      "peso":""
     },
     {
-      "id": "romarior@yahoo.com",
-      "marca": "Adidas"
-    },
-    {
-      "id": "romarior@yahoo.com",
-      "marca": "Puma"
+      "nome":"",
+      "descricao": "",
+      "marca": "",
+      "tamanho":"",
+      "comprimentoManga":"",
+      "time": "",
+      "cor": "",
+      "preco":"",
+      "desconto": "",
+      "estoque": "",
+      "medidas": [
+        {
+          "largura": "",
+          "comprimento": "",
+          "altura": ""
+        }
+      ],
+      "peso":""
     }
   ]
 }

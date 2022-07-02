@@ -1,29 +1,5 @@
 {
-"comprador": [
-    {
-      "nomeUsuario": "Gugu",
-      "email": "augustov@hotmail.com",
-      "senha": "aug123",
-      "nomeCompleto": "Augusto Viana",
-      "confirmarSenha": "aug123",
-      "cidade": "Rio de Janeiro",
-      "cpf": "987.654.321-59",
-      "dataNascimento": "01/02/1995",
-      "telefone": "021 9962-5847"
-    },
-    {
-      "nomeUsuario": "",
-      "email": "",
-      "senha": "",
-      "nomeCompleto": "",
-      "confirmarSenha": "",
-      "cidade": "",
-      "cpf": "",
-      "dataNascimento": "",
-      "telefone": ""
-    }
-  ],
-  "vendedor": [
+    "vendedor": [
     {
       "nomeCompleto": "Romário Rodrigues",
       "email": "romarior@yahoo.com",
@@ -41,28 +17,11 @@
       "bairroLoja": "Liberdade",
       "ruaLoja": "Rua Américo de Campos",
       "numero": "17"
-    },
-    {
-      "nome completo": "",
-      "email": "",
-      "senha": "",
-      "confirmarSenha": "",
-      "nacionalidade": "",
-      "cpf": "",
-      "nascimento": "",
-      "nomeLoja": "",
-      "telefoneLoja": "",
-      "whatsapp": "",
-      "cepLoja": "",
-      "estadoLoja": "",
-      "cidadeLoja": "",
-      "bairroLoja": "",
-      "ruaLoja": "",
-      "numero": ""
     }
   ],
   "produtos": [
     {
+        "id": "",
         "nome":"Camisa",
         "descricao": "Seleção Brasileira",
         "link": "https://images.lojanike.com.br/1024x1024/produto/camisa-maga-curta-cbf-m-nk-brt-ftbl-top-CD0874-749-1.jpg",
@@ -70,15 +29,6 @@
         "tamanho":"M",
         "time": "Brasil ",
         "preco":""
-    },
-    {
-      "nome":"",
-      "descricao": "",
-      "link": "",
-      "marca": "",
-      "tamanho":"",
-      "time": "",
-      "preco":""
     }
   ]
 }

@@ -21,14 +21,14 @@
   ],
   "produtos": [
     {
-        "id": "",
+        "id": "1",
         "nome":"Camisa",
         "descricao": "Seleção Brasileira",
         "link": "https://images.lojanike.com.br/1024x1024/produto/camisa-maga-curta-cbf-m-nk-brt-ftbl-top-CD0874-749-1.jpg",
         "marca": "Nike",
         "tamanho":"M",
         "time": "Brasil ",
-        "preco":""
+        "preco":"500,00"
     }
   ]
 }

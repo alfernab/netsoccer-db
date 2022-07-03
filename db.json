@@ -1,6 +1,7 @@
 {
     "usuario": [
         {
+            "id": "1",
             "nome": "Romário Rodrigues",
             "email": "romarior@yahoo.com",
             "user": "camisa10",

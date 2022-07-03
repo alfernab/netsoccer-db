@@ -1,22 +1,10 @@
 {
     "usuario": [
         {
-            "nomeCompleto": "Romário Rodrigues",
+            "nome": "Romário Rodrigues",
             "email": "romarior@yahoo.com",
-            "senha": "roro123",
-            "confirmarSenha": "roro123",
-            "nacionalidade": "Brasileiro",
-            "cpf": "012.345.789-10",
-            "nascimento": "23/01/1987",
-            "nomeLoja": "Gol de Placa Acessórios Futebolísticos",
-            "telefoneLoja": "011 98857-9592",
-            "whatsapp": "011 98857-9592",
-            "cepLoja": "01506-010",
-            "estadoLoja": "São Paulo",
-            "cidadeLoja": "São Paulo",
-            "bairroLoja": "Liberdade",
-            "ruaLoja": "Rua Américo de Campos",
-            "numero": "17"
+            "user": "camisa10",
+            "senha": "roro123"
         }
     ],
     "adidas": [
@@ -53,7 +41,7 @@
             "contato":"011 98857-9592"   
         },
         {
-            "id": "4",
+            "id": "5",
             "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
             "time": "NÃO SE APLICA",
             "tamanho": "NÃO SE APLICA",
@@ -95,7 +83,7 @@
             "contato":"011 98857-9592"   
         },
         {
-            "id": "4",
+            "id": "5",
             "descricao": "Bola Strike",
             "time": "Barcelona",
             "tamanho": "5",
@@ -137,7 +125,7 @@
             "contato":"011 98857-9592"   
         },
         {
-            "id": "4",
+            "id": "5",
             "descricao": "BOLA CAMPO",
             "time": "NÃO SE APLICA",
             "tamanho": "ÚNICO",

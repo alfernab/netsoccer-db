@@ -24,136 +24,168 @@
             "adidas": {
                 "camisa": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "chuteira": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "luva": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "meia": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ]
             },
             "nike": {
                 "camisa": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "chuteira": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "luva": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "meia": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ]
             },
             "penalty": {
                 "camisa": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "chuteira": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "luva": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "meia": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ]
             },
             "puma": {
                 "camisa": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "chuteira": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "luva": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ],
                 "meia": [
                     {
-                        "tamanho": "",
-                        "preco": "",
+                        "id": "",
+                        "descricao": "",
                         "time": "",
-                        "link":""
+                        "tamanho": "",
+                        "link":"",
+                        "preco": ""
                     }
                 ]
             }

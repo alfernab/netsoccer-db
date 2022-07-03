@@ -19,57 +19,55 @@
         "numero": "17"
       }
     ],
-    "produtos": [
-        {
+    "produtos": {
             "marca": [
                 {
-                    "adidas":[
-                        {
-                            "camisa":[
-                                {
-                                    "id": "1",
-                                    "descricao": "Camisa Masculina",
-                                    "time": "Real Madrid",
-                                    "tamanho": "G",
-                                    "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a83a28f26a5a41809796ad1600955394_9366/Camisa_1_Real_Madrid_21-22_Branco_GR3994_01_laydown.jpg",
-                                    "preco": "249"
-                                }
-                            ],
-                            "chuteira": [
-                                {
-                                    "id": "1",
-                                    "descricao": "CHUTEIRA PREDATOR EDGE.3 SOCIETY",
-                                    "time": "não se aplica",
-                                    "tamanho": "41",
-                                    "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/399162d1fb104eafa705ae2100dcca9d_9366/Chuteira_Predator_Edge.3_Society_Azul_GW9999_01_standard.jpg",
-                                    "preco": "499,99"
-                                }
-                            ],
-                            "luva": [
-                                {
-                                    "id": "1",
-                                    "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
-                                    "time": "não se aplica",
-                                    "tamanho": "único",
-                                    "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c3cb89a5b840422c8d50ac9000939038_9366/Luvas_Goleiro_Predator_Match_Fingersave_Preto_GK3539_21_model.jpg",
-                                    "preco": "179,99"
-                                }
-                            ],
-                            "meia": [
-                                {
-                                    "id": "1",
-                                    "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
-                                    "time": "Flamengo",
-                                    "tamanho": "38-40",
-                                    "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6cf228f0a4764d2886d1acd800e9fa6d_9366/Meiao_1_CR_Flamengo_21-22_Vermelho_GG1001_03_standard.jpg",
-                                    "preco": "49,99"
-                                }
-                            ]
+                "adidas":[
+                    {
+                        "camisa":[
+                            {
+                                "id": "1",
+                                "descricao": "Camisa Masculina",
+                                "time": "Real Madrid",
+                                "tamanho": "G",
+                                "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a83a28f26a5a41809796ad1600955394_9366/Camisa_1_Real_Madrid_21-22_Branco_GR3994_01_laydown.jpg",
+                                "preco": "249"
+                            }
+                        ],
+                        "chuteira": [
+                            {
+                                "id": "1",
+                                "descricao": "CHUTEIRA PREDATOR EDGE.3 SOCIETY",
+                                "time": "não se aplica",
+                                "tamanho": "41",
+                                "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/399162d1fb104eafa705ae2100dcca9d_9366/Chuteira_Predator_Edge.3_Society_Azul_GW9999_01_standard.jpg",
+                                "preco": "499,99"
+                            }
+                        ],
+                        "luva": [
+                            {
+                                "id": "1",
+                                "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
+                                "time": "não se aplica",
+                                "tamanho": "único",
+                                "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c3cb89a5b840422c8d50ac9000939038_9366/Luvas_Goleiro_Predator_Match_Fingersave_Preto_GK3539_21_model.jpg",
+                                "preco": "179,99"
+                            }
+                        ],
+                        "meia": [
+                            {
+                                "id": "1",
+                                "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
+                                "time": "Flamengo",
+                                "tamanho": "38-40",
+                                "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6cf228f0a4764d2886d1acd800e9fa6d_9366/Meiao_1_CR_Flamengo_21-22_Vermelho_GG1001_03_standard.jpg",
+                                "preco": "49,99"
+                            }
+                        ]
 
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+                    }
+                ]
+            }
+        ]
+    }
 }

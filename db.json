@@ -1,189 +1,62 @@
 {
-    "user": [
+    "usuario": [
         {
-            "id": "1",
-            "nome": "Loildo",
-            "email": "loildo@loildo.com",
-            "senha": "123"
-        },
-        {
-            "nome": "asdfa",
-            "email": "teste@teste.com",
-            "senha": "123",
-            "id": "Z-amnny"
-        },
-        {
-            "nome": "salve",
-            "email": "salve@salve.com",
-            "senha": "123",
-            "id": "NzmbPgD"
-        },
-        {
-            "nome": "asdf",
-            "email": "teste@teste.com3",
-            "senha": "d",
-            "id": "HCpDaFN"
-        },
-        {
-            "nome": "asd",
-            "email": "asdfasdfd@casdfasdc.com",
-            "senha": "123",
-            "id": "AxA6fxR"
+            "nomeCompleto": "Romário Rodrigues",
+            "email": "romarior@yahoo.com",
+            "senha": "roro123",
+            "confirmarSenha": "roro123",
+            "nacionalidade": "Brasileiro",
+            "cpf": "012.345.789-10",
+            "nascimento": "23/01/1987",
+            "nomeLoja": "Gol de Placa Acessórios Futebolísticos",
+            "telefoneLoja": "011 98857-9592",
+            "whatsapp": "011 98857-9592",
+            "cepLoja": "01506-010",
+            "estadoLoja": "São Paulo",
+            "cidadeLoja": "São Paulo",
+            "bairroLoja": "Liberdade",
+            "ruaLoja": "Rua Américo de Campos",
+            "numero": "17"
         }
     ],
-    "contas": [
+    "adidas": [
         {
             "id": "1",
-            "descricao": "Caixa",
-            "valor": "3"
-        },
-        {
-            "id": "2",
-            "descricao": "Poupança",
-            "valor": "0"
-        },
-        {
-            "id": "3",
-            "descricao": "Nubank",
-            "valor": 0
+            "descricao": "CAMISA 2",
+            "time": "REAL MADRID",
+            "tamanho": "G",
+            "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/910b2808403447feabeaaec401056696_9366/Camisa_2_Real_Madrid_22-23_Roxo_H18489_21_model.jpg",
+            "preco": "299,99"
         }
     ],
-    "categorias": [
+    "nike": [
         {
-            "id": "1",
-            "descricao": "Alimentação"
-        },
-        {
-            "id": "2",
-            "descricao": "Educação"
-        },
-        {
-            "id": "3",
-            "descricao": "Outros"
+            "id": "",
+            "descricao": "",
+            "time": "",
+            "tamanho": "",
+            "link":"",
+            "preco": ""
         }
     ],
-    "transacoes": [
+    "penalty": [
         {
-            "id": "1",
-            "tipo": "1",
-            "valor": null,
-            "descricao": null,
-            "conta": null,
-            "categoria": null,
-            "data": null,
-            "recorrencia": null
-        },
-        {
-            "id": "1",
-            "tipo": "2",
-            "valor": null,
-            "descricao": null,
-            "conta": null,
-            "categoria": null,
-            "data": null,
-            "recorrencia": null
-        },
-        {
-            "tipo": 1,
-            "valor": -5,
-            "descricao": "teste",
-            "data": "2022-05-28",
-            "recorrencia": "1",
-            "conta": "1",
-            "categoria": "1",
-            "id": "3_00-At"
-        },
-        {
-            "tipo": 2,
-            "valor": "20",
-            "descricao": "recetia",
-            "data": "2022-05-28",
-            "recorrencia": "1",
-            "conta": "3",
-            "categoria": "1",
-            "id": "u8mYmzF"
-        },
-        {
-            "tipo": "",
-            "valor": 20,
-            "descricao": "asdf",
-            "data": "2022-05-12",
-            "recorrencia": "2",
-            "conta": "G5bmqkT",
-            "categoria": "1",
-            "id": "n2HGjZB"
-        },
-        {
-            "tipo": "",
-            "valor": 3,
-            "descricao": "dfdf",
-            "data": "2022-05-19",
-            "recorrencia": "1",
-            "conta": "1",
-            "categoria": "1",
-            "id": "kypv9HC"
-        },
-        {
-            "tipo": 2,
-            "valor": 3,
-            "descricao": "dfdf",
-            "data": "2022-05-19",
-            "recorrencia": "1",
-            "conta": "1",
-            "categoria": "1",
-            "id": "bAvIXiz"
-        },
-        {
-            "tipo": 1,
-            "valor": -3,
-            "descricao": "dfdf",
-            "data": "2022-05-27",
-            "recorrencia": 1,
-            "conta": 2,
-            "categoria": 1,
-            "id": "OOhxNEI"
-        },
-        {
-            "tipo": 1,
-            "valor": -600,
-            "descricao": "dfdf",
-            "data": "2022-05-30",
-            "recorrencia": 1,
-            "conta": 1,
-            "categoria": 1,
-            "id": "gRXNHss"
+            "id": "",
+            "descricao": "",
+            "time": "",
+            "tamanho": "",
+            "link":"",
+            "preco": ""
         }
     ],
-    "limites": [
+    "puma": [
         {
-            "valor": 500,
-            "data": null,
-            "ativo": null,
-            "id": "1"
-        },
-        {
-            "valor": 1000,
-            "data": null,
-            "ativo": null,
-            "id": "2"
-        },
-        {
-            "valor": 1500,
-            "data": null,
-            "ativo": 1,
-            "id": "3"
-        },
-        {
-            "valor": 2000,
-            "data": null,
-            "ativo": null,
-            "id": "4"
-        },
-        {
-            "valor": 5,
-            "data": null,
-            "ativo": null,
-            "id": "5"
+            "id": "",
+            "descricao": "",
+            "time": "",
+            "tamanho": "",
+            "link":"",
+            "preco": ""
         }
     ]
 }

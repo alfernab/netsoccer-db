@@ -25,38 +25,166 @@
             "descricao": "CAMISA 2",
             "time": "REAL MADRID",
             "tamanho": "G",
-            "link":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/910b2808403447feabeaaec401056696_9366/Camisa_2_Real_Madrid_22-23_Roxo_H18489_21_model.jpg",
-            "preco": "299,99"
+            "preco": "299,99",
+            "contato":"011 98857-9592"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "899,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "179,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
+            "time": "FLAMENGO",
+            "tamanho": "M",
+            "preco": "49,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
+            "time": "NÃO SE APLICA",
+            "tamanho": "NÃO SE APLICA",
+            "preco": "299,99",
+            "contato":"011 98857-9592"   
         }
     ],
     "nike": [
         {
-            "id": "",
-            "descricao": "",
-            "time": "",
-            "tamanho": "",
-            "link":"",
-            "preco": ""
+            "id": "1",
+            "descricao": "CAMISA 2",
+            "time": "REAL MADRID",
+            "tamanho": "G",
+            "preco": "299,99",
+            "contato":"011 98857-9592"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "899,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "179,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
+            "time": "FLAMENGO",
+            "tamanho": "M",
+            "preco": "49,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
+            "time": "NÃO SE APLICA",
+            "tamanho": "NÃO SE APLICA",
+            "preco": "299,99",
+            "contato":"011 98857-9592"   
         }
     ],
     "penalty": [
         {
-            "id": "",
-            "descricao": "",
-            "time": "",
-            "tamanho": "",
-            "link":"",
-            "preco": ""
+            "id": "1",
+            "descricao": "CAMISA 2",
+            "time": "REAL MADRID",
+            "tamanho": "G",
+            "preco": "299,99",
+            "contato":"011 98857-9592"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "899,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "179,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
+            "time": "FLAMENGO",
+            "tamanho": "M",
+            "preco": "49,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
+            "time": "NÃO SE APLICA",
+            "tamanho": "NÃO SE APLICA",
+            "preco": "299,99",
+            "contato":"011 98857-9592"   
         }
     ],
     "puma": [
         {
-            "id": "",
-            "descricao": "",
-            "time": "",
-            "tamanho": "",
-            "link":"",
-            "preco": ""
+            "id": "1",
+            "descricao": "CAMISA 2",
+            "time": "REAL MADRID",
+            "tamanho": "G",
+            "preco": "299,99",
+            "contato":"011 98857-9592"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "899,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "179,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
+            "time": "FLAMENGO",
+            "tamanho": "M",
+            "preco": "49,99",
+            "contato":"011 98857-9592"   
+        },
+        {
+            "id": "4",
+            "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
+            "time": "NÃO SE APLICA",
+            "tamanho": "NÃO SE APLICA",
+            "preco": "299,99",
+            "contato":"011 98857-9592"   
         }
     ]
 }

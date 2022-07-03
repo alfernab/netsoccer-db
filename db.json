@@ -19,17 +19,144 @@
         "numero": "17"
       }
     ],
-    "produtos": [
-      {
-        "id": "1",
-        "nome": "Camisa",
-        "descricao": "Seleção Brasileira",
-        "link": "www.google.com.br",
-        "marca": "Nike",
-        "tamanho": "G",
-        "time": "Brasil",
-        "preco": "300",
-        "qtd": "10"
-      }
-    ]
-  }
+    "produtos": {
+        "marca": {
+            "adidas": {
+                "camisa": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "chuteira": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "luva": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "meia": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ]
+            },
+            "nike": {
+                "camisa": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "chuteira": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "luva": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "meia": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ]
+            },
+            "penalty": {
+                "camisa": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "chuteira": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "luva": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "meia": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ]
+            },
+            "puma": {
+                "camisa": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "chuteira": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "luva": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ],
+                "meia": [
+                    {
+                        "tamanho": "",
+                        "preco": "",
+                        "time": "",
+                        "link":""
+                    }
+                ]
+            }
+        }
+    }
+}

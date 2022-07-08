@@ -1,184 +1,182 @@
-[
-    {
-        "usuario": [
-            {
-                "id": "1",
-                "nome": "Romário Rodrigues",
-                "telefone": "011 98857-9592",
-                "email": "romarior@yahoo.com",
-                "user": "camisa10",
-                "senha": "roro123"
-            }
-        ],
-        "adidas": [
-            {
-                "id": "1",
-                "descricao": "CAMISA 2",
-                "time": "REAL MADRID",
-                "tamanho": "G",
-                "preco": "299,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "2",
-                "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
-                "time": "NÃO SE APLICA",
-                "tamanho": "41",
-                "preco": "899,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "3",
-                "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
-                "time": "NÃO SE APLICA",
-                "tamanho": "ÚNICO",
-                "preco": "179,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "4",
-                "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
-                "time": "FLAMENGO",
-                "tamanho": "M",
-                "preco": "49,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "5",
-                "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
-                "time": "NÃO SE APLICA",
-                "tamanho": "NÃO SE APLICA",
-                "preco": "299,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            }
-        ],
-        "nike": [
-            {
-                "id": "1",
-                "descricao": "CAMISA BRASIL II 2020/21 FEMININA",
-                "time": "BRASIL",
-                "tamanho": "G",
-                "preco": "249,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "2",
-                "descricao": "CHUTEIRA VAPOR 14 ELITE CAMPO",
-                "time": "NÃO SE APLICA",
-                "tamanho": "41",
-                "preco": "1899,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "3",
-                "descricao": "LUVAS JR. GOALKEEPER MATCH INFANTIL",
-                "time": "NÃO SE APLICA",
-                "tamanho": "ÚNICO",
-                "preco": "79,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "4",
-                "descricao": "MEIÃO 2020/21 JOGADOR UNISSEX",
-                "time": "CORINTHIANS",
-                "tamanho": "41",
-                "preco": "109,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "5",
-                "descricao": "Bola Strike",
-                "time": "Barcelona",
-                "tamanho": "5",
-                "preco": "299,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            }
-        ],
-        "penalty": [
-            {
-                "id": "1",
-                "descricao": "CAMISETA  MAGNUS GOLEIRO OF 1",
-                "time": "NÃO SE APLICA",
-                "tamanho": "G",
-                "preco": "199,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "2",
-                "descricao": "CHUTEIRA CAMPO",
-                "time": "NÃO SE APLICA",
-                "tamanho": "41",
-                "preco": "229,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "3",
-                "descricao": "LUVAS GOLEIRO DELTA 1 JUVENIL X",
-                "time": "NÃO SE APLICA",
-                "tamanho": "06",
-                "preco": "79,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "4",
-                "descricao": "MEIÃO MATIS JUVENIL VIII T",
-                "time": "NÃO SE APLICA",
-                "tamanho": "ÚNICO",
-                "preco": "14,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "5",
-                "descricao": "BOLA CAMPO",
-                "time": "NÃO SE APLICA",
-                "tamanho": "ÚNICO",
-                "preco": "209,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            }
-        ],
-        "puma": [
-            {
-                "id": "1",
-                "descricao": "CAMISA MASCULINA",
-                "time": "PALMEIRAS",
-                "tamanho": "G",
-                "preco": "229,90",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "2",
-                "descricao": "CHUTEIRA FUTURE 3.3 MASCULINA",
-                "time": "NÃO SE APLICA",
-                "tamanho": "41",
-                "preco": "899,99",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            },
-            {
-                "id": "3",
-                "descricao": "LUVAS GOLEIRO ULTRA GRIP 1 HYBRID PRO",
-                "time": "NÃO SE APLICA",
-                "tamanho": "11",
-                "preco": "539,90",
-                "telefone": "011 98857-9592",
-                "email":"romarior@yahoo.com"
-            }
-        ]
-    }
-]
+{
+    "usuario": [
+        {
+            "id": "1",
+            "nome": "Romário Rodrigues",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com",
+            "user": "camisa10",
+            "senha": "roro123"
+        }
+    ],
+    "adidas": [
+        {
+            "id": "1",
+            "descricao": "CAMISA 2",
+            "time": "REAL MADRID",
+            "tamanho": "G",
+            "preco": "299,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "899,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "179,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
+            "time": "FLAMENGO",
+            "tamanho": "M",
+            "preco": "49,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "5",
+            "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
+            "time": "NÃO SE APLICA",
+            "tamanho": "NÃO SE APLICA",
+            "preco": "299,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        }
+    ],
+    "nike": [
+        {
+            "id": "1",
+            "descricao": "CAMISA BRASIL II 2020/21 FEMININA",
+            "time": "BRASIL",
+            "tamanho": "G",
+            "preco": "249,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA VAPOR 14 ELITE CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "1899,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS JR. GOALKEEPER MATCH INFANTIL",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "79,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO 2020/21 JOGADOR UNISSEX",
+            "time": "CORINTHIANS",
+            "tamanho": "41",
+            "preco": "109,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "5",
+            "descricao": "Bola Strike",
+            "time": "Barcelona",
+            "tamanho": "5",
+            "preco": "299,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        }
+    ],
+    "penalty": [
+        {
+            "id": "1",
+            "descricao": "CAMISETA  MAGNUS GOLEIRO OF 1",
+            "time": "NÃO SE APLICA",
+            "tamanho": "G",
+            "preco": "199,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "229,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO DELTA 1 JUVENIL X",
+            "time": "NÃO SE APLICA",
+            "tamanho": "06",
+            "preco": "79,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "4",
+            "descricao": "MEIÃO MATIS JUVENIL VIII T",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "14,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "5",
+            "descricao": "BOLA CAMPO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "ÚNICO",
+            "preco": "209,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        }
+    ],
+    "puma": [
+        {
+            "id": "1",
+            "descricao": "CAMISA MASCULINA",
+            "time": "PALMEIRAS",
+            "tamanho": "G",
+            "preco": "229,90",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "2",
+            "descricao": "CHUTEIRA FUTURE 3.3 MASCULINA",
+            "time": "NÃO SE APLICA",
+            "tamanho": "41",
+            "preco": "899,99",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        },
+        {
+            "id": "3",
+            "descricao": "LUVAS GOLEIRO ULTRA GRIP 1 HYBRID PRO",
+            "time": "NÃO SE APLICA",
+            "tamanho": "11",
+            "preco": "539,90",
+            "telefone": "011 98857-9592",
+            "email": "romarior@yahoo.com"
+        }
+    ]
+}
